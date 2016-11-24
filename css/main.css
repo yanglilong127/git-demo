@@ -1,0 +1,12 @@
+body {
+  background: #e92322;
+}
+body .div {
+  color: #f00;
+  height: 100px;
+  width: 100px;
+}
+body .div:hover {
+  background: #0f0;
+  height: 30px;
+}
